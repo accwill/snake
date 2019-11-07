@@ -19,7 +19,12 @@
         bgm.wav       # 背景音乐
 ```
 
+## 环境
 
+- 操作系统
+  - Win10 64位
+- IDE
+  - Vistual studio 2019
 
 
 ## 总结
